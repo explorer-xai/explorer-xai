@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @explorer-xai
 - 👀 I’m interested in Explainable AI, specifically Vision based model explanations.
 - 🌱 I’m currently learning Stochastic Optimization, Deep Learning and Computer Vision techniques.
-- 💞️ I’m looking to collaborate on Structured Explanations, for Visual as well as other applied Deep Learning models.
+- 💞️ I’m looking to collaborate on Structured Explanations, Physics Informmed Neural Nets and applied Deep Learning models.
 - 📫 How to reach me :  explore.xai@gmail.com
 
 <!---
